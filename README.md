@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2400&color=6082F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Welcome+to+my+GitHub+Page+%F0%9F%91%8B;My+name+is+Iurii+Kondrakov)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Teko&size=40&duration=2800&color=53DBF7&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Iurii+Kondrakov;Welcome+to+my+GitHub+Page+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ``` diff 
 - Skills 
