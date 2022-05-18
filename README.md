@@ -1,6 +1,23 @@
 ### Welcome to my GitHub Page 👋
 My name is **Iurii Kondrakov**
 
+``` diff 
+- Skills 
++ Web Development
+#   Front-end:
+#      - Frameworks: React, AngularJs, VueJs
+#      - CSS: Bulma, Bootstrap, Tailwind
+#   Back-end:
+#      - Frameworks: ExpressJS, Django, Flask, Ruby On Rails, SpringBoot, ASP.Net
++ Mobile Development
+#      - Swift, React Native, Flutter
++ Database
+#   Relational:
+#      - OracleSQL, MySQL, Postgres, SQLLite
+#   Non-Relational:
+#      - MongoDB, Redis, Firestore, Cassandra
+```
+
 <!--
 https://deezzir-spo660.blogspot.com/
 
