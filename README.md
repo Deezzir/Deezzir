@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to my GitHub Page 👋
+My name is **Iurii Kondrakov**
 
 <!--
 https://deezzir-spo660.blogspot.com/
