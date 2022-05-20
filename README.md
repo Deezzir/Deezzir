@@ -5,7 +5,7 @@ I am a motivated and proactive IT graduate with persuasive communication skills 
 ``` diff 
 - Skills & Languages
 + Data Science
-#
+#      - TensorFlow, MatLab, Jupyter, Sci-Kit Learn, PyTorch
 + Web Development
 #   Front-end:
 #      - Frameworks: React, AngularJs, VueJs
