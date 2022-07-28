@@ -24,4 +24,8 @@ I am a motivated and proactive IT graduate with persuasive communication skills 
 #      - PC assembly and maintenance
 #      - Network implementation
 #      - Mechanics and Robotics
++ Linux Administration 
+#      - Network Management
+#      - VM management 
+#      - Kernel Configuration & RPM packaging
 ```
