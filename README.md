@@ -2,7 +2,9 @@
 
 I am a Seneca College graduate who finished my Computer Programming & Analysis studies in 2022 with High Honours.
 
-I have almost a year of experience working with ML and Big Data. Additionally, I worked as a Research Assistant maintaining Open-Source project and administating Linux platforms. Capable of building complex prediction models, responsive full-stack web applications and general software. Interested in optimization and portability across platforms using Parallel algorithms, architecture-specific SIMD implementations and orchestration systems.
+I have almost a year of experience working with ML and Big Data. Additionally, I worked as a Research Assistant maintaining Open-Source projects and administrating Linux platforms. Capable of building complex prediction models, responsive full-stack web applications and general software. I am interested in optimization and portability across platforms using Parallel algorithms, architecture-specific SIMD implementations and orchestration systems.
+
+[Portfolio Website WIP](https://portfolio.noxu.dev/)
 
 ``` diff 
 - Skills & Languages
