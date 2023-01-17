@@ -30,7 +30,7 @@ My website - [Noxu.dev](https://noxu.dev/)
 #      - PC assembly and maintenance
 #      - Network implementation
 #      - Mechanics and Robotics
-+ Linux Administration 
++ System Administration 
 #      - Network Management
 #      - VM management 
 #      - Kernel Configuration & RPM packaging
