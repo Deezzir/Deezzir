@@ -36,5 +36,5 @@ My website - [Noxu.dev](https://noxu.dev/)
 #      - Kernel Configuration & RPM packaging
 #
 + Languages
-#      - C, C++, C#, GoLang, Python, Ruby, Rust, JavaScript, TypeScript, Java, Swift, FreePascal
+#      - C, C++, C#, GoLang, Python, Ruby, Rust, JavaScript, TypeScript, Java, Swift, FreePascal, OCaml
 ```
